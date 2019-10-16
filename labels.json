@@ -1,0 +1,93 @@
+{
+    "labels": [
+        {
+            "name": "back from acceptance",
+            "description": "Rejected by PM Acceptance.",
+            "color": "#fbca04"
+        },
+        {
+            "name": "code quality",
+            "description": "Refactor, abstraction, etc.",
+            "color": "#5319e7"
+        },
+        {
+            "name": "UI",
+            "description": "UI issues reported after the feature is done.",
+            "color": "#0e8a16"
+        },
+
+        {
+            "name": "reported by client",
+            "description": "To indicate that the issue is raised by client.",
+            "color": "#c2e0c6"
+        },
+        {
+            "name": "reported by team",
+            "description": "To indicate that the issue is raised by internal team members.",
+            "color": "#c5def5"
+        },
+        {
+            "name": "reported by qa",
+            "description": "To indicate that the issue is raised by QA.",
+            "color": "#fef2c0"
+        },
+
+        {
+            "name": "bug/critical",
+            "description": "70% users will notice a feature broken, fix immediately.",
+            "color": "#b60205"
+        },
+        {
+            "name": "bug/major",
+            "description": "70% users will be affected by the issue, or any feature broken, fix asap.",
+            "color": "#d93f0b"
+        },
+        {
+            "name": "bug/minor",
+            "description": "20% users will be affected by the issue, fix optionally.",
+            "color": "#e99695"
+        },
+        {
+            "name": "bug/trivial",
+            "description": "< 20% users will be affected by the issue, fix optionally.",
+            "color": "#f9d0c4"
+        },
+
+        {
+            "name": "ui/critical",
+            "description": "UI issues that will affect the look and feel impression of almost all users.",
+            "color": "#139328"
+        },
+        {
+            "name": "ui/major",
+            "description": "UI issues that will affect the look and feel impression of > 70% users.",
+            "color": "#63c11b"
+        },
+        {
+            "name": "ui/minor",
+            "description": "UI issues that will affect the look and feel impression of > 20% users.",
+            "color": "#aee246"
+        },
+        {
+            "name": "ui/trivial",
+            "description": "UI issues that will affect the look and feel impression of < 20% users.",
+            "color": "#d1ef09"
+        },
+
+        {
+            "name": "doc",
+            "description": "Documentation.",
+            "color": "#4286f4"
+        },
+        {
+            "name": "security",
+            "description": "Security feature, issue or enhancement.",
+            "color": "#3c4e90"
+        },
+        {
+            "name": "optimization",
+            "description": "Improve performance.",
+            "color": "#bfd4f2"
+        }
+    ]
+}
