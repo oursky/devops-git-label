@@ -75,6 +75,21 @@
         },
 
         {
+            "name": "clarification",
+            "description": "Pending for clarification.",
+            "color": "#99ccff"
+        },
+        {
+            "name": "clarified",
+            "description": "This is clarified.",
+            "color": "#125610"
+        },
+        {
+            "name": "research",
+            "description": "Study / Research for something to reduce uncertainty.",
+            "color": "#2c9e12"
+        },
+        {
             "name": "doc",
             "description": "Documentation.",
             "color": "#4286f4"
@@ -88,6 +103,62 @@
             "name": "optimization",
             "description": "Improve performance.",
             "color": "#bfd4f2"
+        },
+        {
+            "name": "testing",
+            "description": "Unit test, integration test, load test.",
+            "color": "#0052cc"
+        },
+        {
+            "name": "idea",
+            "description": "Good to have but not in the plan, we may consider it later.",
+            "color": "#736ac4"
+        },
+        {
+            "name": "design",
+            "description": "Question or request that require designer attention.",
+            "color": "#b7c126"
+        },
+        {
+            "name": "user story",
+            "description": "Meta issue that describe a requirement and/or goal.",
+            "color": "#993366"
+        },
+
+        {
+            "name": "1",
+            "description": "1 hour work",
+            "color": "#666600"
+        },
+        {
+            "name": "2",
+            "description": "2 hours work",
+            "color": "#666600"
+        },
+        {
+            "name": "3",
+            "description": "3 hours work",
+            "color": "#666600"
+        },
+        {
+            "name": "5",
+            "description": "5 hours work",
+            "color": "#666600"
+        },
+        {
+            "name": "8",
+            "description": "8 hours work",
+            "color": "#666600"
+        },
+        {
+            "name": "13",
+            "description": "13 hours work",
+            "color": "#666600"
+        },
+        {
+            "name": "20",
+            "description": "20 hours work",
+            "color": "#666600"
         }
     ]
 }
