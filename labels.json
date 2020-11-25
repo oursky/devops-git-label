@@ -73,7 +73,28 @@
             "description": "UI issues that will affect the look and feel impression of < 20% users.",
             "color": "#d1ef09"
         },
-
+        
+        {
+            "name": "ux/critical",
+            "description": "Almost all users will notice the issue as a problem",
+            "color": "#5319e7"
+        },
+        {
+            "name": "ux/major",
+            "description": "> 70% users will notice the issue as a problem",
+            "color": "#0052cc"
+        },
+        {
+            "name": "ux/minor",
+            "description": "> 20% users will notice the issue as a problem",
+            "color": "#d4c5f9"
+        },
+        {
+            "name": "ux/trivial",
+            "description": "< 20% users will notice the issue as a problem",
+            "color": "#bfd4f2"
+        },
+        
         {
             "name": "clarification",
             "description": "Pending for clarification.",
