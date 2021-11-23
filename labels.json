@@ -11,6 +11,11 @@
             "color": "#5319e7"
         },
         {
+            "name": "sentry",
+            "description": "Follow up on sentry/crashlytics alerts.",
+            "color": "#7c65c7"
+        },        
+        {
             "name": "UI",
             "description": "UI issues reported after the feature is done.",
             "color": "#0e8a16"
