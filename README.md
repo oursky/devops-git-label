@@ -18,6 +18,6 @@ docker run -it --rm devops-git-label --github-token=XXXX --slug=owner/repo
 
 #### Run with stored access token
 ```
-echo 'GITHUB_TOKEB=XXXX' > .env
+echo 'GITHUB_TOKEN=XXXX' > .env
 docker run -it --rm --env-file .env devops-git-label --slug=owner/repo
 ```
